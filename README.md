@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,java,php,py,css,html,js,nodejs,mysql,sqlite,firebase,docker,ai,pr,adobeilustrator,aftereffects,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,java,php,py,css,html,js,nodejs,mysql,sqlite,firebase,ai,pr,aftereffects,ps&perline=12" />
   </a>
 </p>
 <br>
