@@ -4,6 +4,7 @@
   <a href="https://www.youtube.com/@_zeoliusnt_" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.tiktok.com/@zeoliusnt" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
 <a href = "mailto:huertaschancossebastian@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  <a href="https://www.instagram.com/zeoliusnt/"><img alt="Instagram" title="Instagram" src="./assets/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
   </p>
 <br>
 <h2>About Me 😃</h2>
